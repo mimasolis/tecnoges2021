@@ -1,5 +1,10 @@
 html, body {
     font-size: 12px;
     font-family: Helvetica;
-    color: blueviolet;
+    color:blueviolet;
+    margin: 10px;
+    
+}
+#principal {
+    border: 1px solid #bc5100
 }
