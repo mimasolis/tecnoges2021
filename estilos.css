@@ -3,3 +3,9 @@ html, body {
     font-family: Helvetica;
     color: blueviolet;
 }
+.item {
+    background: #ffb04c;
+    padding: 10px;
+    text-align: center;
+   
+   }
